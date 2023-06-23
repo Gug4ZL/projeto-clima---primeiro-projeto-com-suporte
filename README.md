@@ -9,3 +9,6 @@
 <br>
 -JAVA SCRIPT
 
+<img src="https://github.com/Gug4ZL/projeto-clima---primeiro-projeto-com-suporte/blob/main/assets/2023-06-22.png?raw=true">
+<br>
+<img src="">
